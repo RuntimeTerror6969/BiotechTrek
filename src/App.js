@@ -6,7 +6,6 @@ import Navbar from "./components/layout/Navbar";
 import Profile from "./components/profile/Profile";
 import Register from "./components/auth/Register";
 import ApplicationList from "./components/applications/ApplicationList";
-import { Toilet } from "lucide-react";
 
 const App = () => {
   return (
